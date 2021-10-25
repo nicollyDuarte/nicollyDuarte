@@ -1,6 +1,6 @@
 # Hi there, I'm Nicolly Duarte 👋
 
-- 🌱 I’m currently learning JavaScript, ReactJS e ReactNative
+- 🌱 I’m currently learning JavaScript, ReactJS and ReactNative
 - 😄 Pronouns: She/Her
 
 ![Nicolly's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollyDuarte&show_icons=true&theme=radical)
