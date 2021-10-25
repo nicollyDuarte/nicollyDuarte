@@ -5,9 +5,12 @@
 
 ![Nicolly's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollyDuarte&show_icons=true&theme=radical)
 
+[![Nicollys' Rocketseat Profile]()]()
+
 
 
 <!--
+[![Nicollys' Rocketseat Profile]()]()
 
 ![Nicolly's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollyDuarte&show_icons=true&theme=radical)
 
